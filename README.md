@@ -1,6 +1,8 @@
 # Xtreme-VueJs-Vuesax-free-admin
 
-<h4><a href="https://www.wrappixel.com/demos/free-admin-templates/xtreme-vuesax-free/#/starterkit">Live Demo Link</a></h4>
+<h4><a href="https://www.wrappixel.com/demos/free-admin-templates/xtreme-vuesax-free/#/starterkit">Free Version Demo Link</a></h4>
+
+## Pro Version
 
 <a href="https://www.wrappixel.com/templates/xtreme-vuesax-admin-pro/"><img src="https://www.wrappixel.com/wp-content/uploads/edd/2019/10/xtrene-vuesax-admin-template-nw.jpg"/></a><br/>
 
