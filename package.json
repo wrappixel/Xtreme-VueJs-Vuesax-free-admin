@@ -12,7 +12,7 @@
     "chart.js": "^2.8.0",
     "core-js": "^2.6.5",
     "material-icons": "^0.3.1",
-    "prismjs": "^1.17.1",
+    "prismjs": "^1.23.0",
     "vue": "^2.6.10",
     "vue-chartjs": "^3.4.2",
     "vue-prism-component": "^1.1.1",
