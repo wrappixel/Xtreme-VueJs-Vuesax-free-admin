@@ -1,13 +1,8 @@
 <!-- # Xtreme-VueJs-Vuesax-free-admin -->
 <!-- Heading of Template -->
 <h1>
-  <a href="https://www.wrappixel.com/demos/free-admin-templates/xtreme-vuesax-free/">Xtreme Vuesax Admin Lite</a>
+  <a href="https://wrappixel.com/demos/free-admin-templates/xtreme-vuesax-free/"><b>Xtreme Vuesax Admin Lite</b></a>
 </h1>
-
-<!-- Main image of Template -->
-<a target="_blank" href="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/xtreme-vuesax-lite-y.jpg">
-  <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/xtreme-vuesax-lite-y.jpg" />
-</a>
 
 <!-- Description of Template -->
 <p>
@@ -15,7 +10,7 @@
 </p>
 
 <p>
-It has all the amazing features like chart options, ready-to-use apps, multilingual support, regular free updates, widgets, page templates and much more. The free version is the perfect solution for personal and commercial projects, check the premium version of <a href="https://www.wrappixel.com/templates/xtreme-vuesax-admin-pro/">Xtreme Vuesax Dashboard </a> for lots more features and customizable options.
+It has all the amazing features like chart options, ready-to-use apps, multilingual support, regular free updates, widgets, page templates and much more. The free version is the perfect solution for personal and commercial projects, check the premium version of <a href="https://wrappixel.com/templates/xtreme-vuesax-admin-pro"><b>Xtreme Vuesax Dashboard</b> </a> for lots more features and customizable options.
 </p>
 
 ## Project setup
@@ -46,55 +41,18 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-<!-- Versions of Template -->
-<h2><a id="user-content-versions" class="anchor" aria-hidden="true" href="#versions"></a>Versions</h2>
-<table>
-<thead>
-<tr>
-<th>Bootstrap</th>
-<th>React</th>
-<th>Vue</th>
-<th>Angular</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>
-  <a href="https://www.wrappixel.com/templates/xtremeadmin/" rel="nofollow" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/xtreme-bootstrap-admin-y.jpg" alt="Xtreme Template  Bootstrap" style="max-width:150px;">
-  </a>
-</td>
-<td>
-  <a href="https://www.wrappixel.com/templates/xtreme-react-redux-admin/" rel="nofollow" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/xtreme-react-admin-template-y.jpg" alt="Xtreme Template  React" style="max-width:150px;">
-  </a>
-</td>
-<td>
-  <a href="https://www.wrappixel.com/templates/xtreme-vuesax-admin-pro/" rel="nofollow" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/xtreme-vuesax-admin-y.jpg" alt="Xtreme Template  Vue" style="max-width:150px;">
-  </a>
-</td>
-  <td>
-  <a href="https://www.wrappixel.com/templates/xtreme-angular-admin/" rel="nofollow" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/xtreme-angular-admin-y.jpg" alt="Xtreme Template  Angular" style="max-width:150px;">
-  </a>
-</td>
-</tr>
-</tbody>
-</table>
-
 <!-- Resources of Template -->
 <h2>Resources</h2>
 <ul>
 <li>  
-  Live Demo: <a href="https://www.wrappixel.com/demos/free-admin-templates/xtreme-vuesax-free/" rel="nofollow">https://www.wrappixel.com/demos/free-admin-templates/xtreme-vuesax-free</a>
+  Live Demo: <a href="https://wrappixel.com/demos/free-admin-templates/xtreme-vuesax-free/" rel="nofollow"><b>https://wrappixel.com/demos/free-admin-templates/xtreme-vuesax-free</b></a>
 </li>
 <li>
-    Download Page: <a href="https://www.wrappixel.com/templates/xtreme-vuesax-admin-lite/" rel="nofollow">
-  https://www.wrappixel.com/templates/xtreme-vuesax-admin-lite/</a>
+    Download Page: <a href="https://wrappixel.com/templates/xtreme-vuesax-admin-lite" rel="nofollow">
+  <b>https://wrappixel.com/templates/xtreme-vuesax-admin-lite</b></a>
 </li>
 <li>
-    <a href="https://www.wrappixel.com/templates/wrapkit/#demos" rel="nofollow">WrapKit </a>Complete UI Kit - For Website Projects
+    <a href="https://wrappixel.com/templates/wrapkit#demos" rel="nofollow"><b>WrapKit</b> </a>Complete UI Kit - For Website Projects
 </li>
 </ul>
 
@@ -102,40 +60,39 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 <h2>Licensing</h2>
 <ul>
   <li>
-    <p>Copyright 2020 Wrappixel (<a href="https://www.wrappixel.com/" rel="nofollow">https://www.wrappixel.com/</a>)</p>
+    <p>Copyright 2020 Wrappixel (<a href="https://wrappixel.com" rel="nofollow"><b>https://wrappixel.com</b></a>)</p>
   </li>
   <li>
-    <p>Licensed under MIT (<a href="https://www.wrappixel.com/license/">https://www.wrappixel.com/license/</a>)</p>
+    <p>Licensed under MIT (<a href="https://wrappixel.com/license"><b>https://wrappixel.com/license</b></a>)</p>
   </li>
 </ul>
 
-<!-- <h4><a href="https://www.wrappixel.com/demos/free-admin-templates/xtreme-vuesax-free/#/starterkit">Free Version Demo Link</a></h4> -->
+<!-- <h4><a href="https://wrappixel.com/demos/free-admin-templates/xtreme-vuesax-free/#/starterkit">Free Version Demo Link</a></h4> -->
 
 <!-- ## Pro Version -->
 
 
 <!-- Upgrade to Premium version of Template -->
 <h2>Upgrade to Premium version</h2>
-<a href="https://www.wrappixel.com/templates/xtreme-vuesax-admin-pro/">
-  <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/xtreme-vuesax-admin-y.jpg"/></a>
+
 <p>
    Checkout our premium version of Xtreme Vuesax Admin for lots more features and ready to use page templates.<br>
-   <a href="https://www.wrappixel.com/demos/vuejs-admin-templates/xtreme-vuesax-pro/main/">Check Live Preview</a> | <a href="https://www.wrappixel.com/templates/xtreme-vuesax-admin-pro/">Download</a>
+   <a href="https://wrappixel.com/demos/vuejs-admin-templates/xtreme-vuesax-pro/main/"><b>Check Live Preview</b></a> | <a href="https://wrappixel.com/templates/xtreme-vuesax-admin-pro"><b>Download</b></a>
 </p>
 
-<!-- <h4><a href="https://www.wrappixel.com/demos/vuejs-admin-templates/xtreme-vuesax-pro/main/login">Demo</a></h4> -->
+<!-- <h4><a href="https://wrappixel.com/demos/vuejs-admin-templates/xtreme-vuesax-pro/main/login">Demo</a></h4> -->
 
 
 <!-- Useful Links of Template -->
 <h2>Useful Links</h2>
 <ul>
-<li><a href="https://www.wrappixel.com/templates/category/admin-template/">Free Dashboard Templates</a> from WrapPixel</li>
-<li><a href="https://www.wrappixel.com/">Free Bootstrap Templates</a> from WrapPixel</li>
-<li><a href="https://www.wrappixel.com/templates/category/bootstrap-admin-templates/">Bootstrap 4 Admin Template</a> Free from WrapPixel</li>
-<li><a href="https://www.wrappixel.com/templates/category/angular-templates/">Free Angular Templates</a> from WrapPixel</li>
-<li><a href="https://www.wrappixel.com/templates/category/react-templates/">React Dashboard Template</a> from WrapPixel</li>
-<li><a href="https://www.wrappixel.com/templates/category/vuejs-templates/">Vuetify Template</a> from WrapPixel</li>
-<li><a href="https://www.wrappixel.com/templates/category/free-templates/">Free Website Themes</a> from WrapPixel</li>
+<li><a href="https://wrappixel.com/admin-dashboard-templates"><b>Free Dashboard Templates</b></a> from WrapPixel</li>
+<li><a href="https://wrappixel.com"><b>Free Bootstrap Templates</b></a> from WrapPixel</li>
+<li><a href="https://wrappixel.com/bootstrap-templates"><b>Bootstrap 4 Admin Template</b></a> Free from WrapPixel</li>
+<li><a href="https://wrappixel.com/angular-templates"><b>Free Angular Templates</b></a> from WrapPixel</li>
+<li><a href="https://wrappixel.com/react-templates"><b>React Dashboard Template</b></a> from WrapPixel</li>
+<li><a href="https://wrappixel.com/vue-templates"><b>Vuetify Template</b></a> from WrapPixel</li>
+<li><a href="https://wrappixel.com/free-templates"><b>Free Website Themes</b></a> from WrapPixel</li>
 </ul>
 
 <!-- Social Media of Wrappixel -->
